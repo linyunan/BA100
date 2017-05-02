@@ -1,0 +1,63 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\JS\Desktop\PCB_BA100_MAIN\BA100_CPU_V1.0.PcbDoc
+Date     : 2016/10/11
+Time     : 9:14:36
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Track (-1.451mm,-39.085mm)(-1.451mm,-34.185mm)  Top Layer and 
+                     Pad ANT-1(-1.451mm,-34.185mm)  Top Layer
+   Violation between Track (0.649mm,-38.835mm)(0.649mm,-34.385mm)  Top Layer and 
+                     Pad ANT-2(0.649mm,-34.385mm)  Top Layer
+   Violation between Area Fill (-0.5mm,-34.15mm) (1.706mm,-33.2mm)  Top Layer and 
+                     Pad ANT-2(0.649mm,-34.385mm)  Top Layer
+   Violation between Area Fill (-0.065mm,-34.15mm) (1.4mm,-33.55mm)  Top Layer and 
+                     Pad ANT-2(0.649mm,-34.385mm)  Top Layer
+   Violation between Via (0.65mm,-34.15mm) Top Layer to Bottom Layer and 
+                     Pad ANT-2(0.649mm,-34.385mm)  Top Layer
+   Violation between Track (0.649mm,-38.835mm)(0.649mm,-34.385mm)  Top Layer and 
+                     Via (0.65mm,-34.15mm) Top Layer to Bottom Layer
+   Violation between Track (-1.451mm,-39.085mm)(-1.451mm,-34.185mm)  Top Layer and 
+                     Track (-1.451mm,-34.185mm)(-1.451mm,-32.985mm)  Top Layer
+   Violation between Area Fill (-0.5mm,-34.15mm) (1.706mm,-33.2mm)  Top Layer and 
+                     Track (0.649mm,-38.835mm)(0.649mm,-34.385mm)  Top Layer
+   Violation between Area Fill (-0.065mm,-34.15mm) (1.4mm,-33.55mm)  Top Layer and 
+                     Track (0.649mm,-38.835mm)(0.649mm,-34.385mm)  Top Layer
+Rule Violations :9
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+   Violation between Track (-1.451mm,-39.085mm)(-1.451mm,-34.185mm)  Top Layer and 
+                     Pad ANT-1(-1.451mm,-34.185mm)  Top Layer
+   Violation between Area Fill (-0.5mm,-34.15mm) (1.706mm,-33.2mm)  Top Layer and 
+                     Pad ANT-2(0.649mm,-34.385mm)  Top Layer
+   Violation between Area Fill (-0.065mm,-34.15mm) (1.4mm,-33.55mm)  Top Layer and 
+                     Pad ANT-2(0.649mm,-34.385mm)  Top Layer
+   Violation between Via (0.65mm,-34.15mm) Top Layer to Bottom Layer and 
+                     Pad ANT-2(0.649mm,-34.385mm)  Top Layer
+   Violation between Track (0.649mm,-38.835mm)(0.649mm,-34.385mm)  Top Layer and 
+                     Via (0.65mm,-34.15mm) Top Layer to Bottom Layer
+   Violation between Track (-1.451mm,-39.085mm)(-1.451mm,-34.185mm)  Top Layer and 
+                     Track (-1.451mm,-34.185mm)(-1.451mm,-32.985mm)  Top Layer
+   Violation between Area Fill (-0.5mm,-34.15mm) (1.706mm,-33.2mm)  Top Layer and 
+                     Track (0.649mm,-38.835mm)(0.649mm,-34.385mm)  Top Layer
+   Violation between Area Fill (-0.065mm,-34.15mm) (1.4mm,-33.55mm)  Top Layer and 
+                     Track (0.649mm,-38.835mm)(0.649mm,-34.385mm)  Top Layer
+Rule Violations :8
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.3mm) (Air Gap=0.3mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=1mm) (Preferred=0.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 17
+Time Elapsed        : 00:00:00

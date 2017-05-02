@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=P16 Pin=SW-1
+Removed Pin From Net: NetName=VDD Pin=U1-0
+Added Component: Designator=LED7(LED-0805)
+Added Component: Designator=LED8(LED-0805)
+Added Component: Designator=LED9(LED-0805)
+Added Component: Designator=LED10(LED-0805)
+Added Component: Designator=LED11(LED-0805)
+Added Component: Designator=LED12(LED-0805)
+Added Component: Designator=R25(PRC-*****-AM-0A_0603)
+Added Component: Designator=R26(PRC-*****-AM-0A_0603)
+Added Component: Designator=R27(PRC-*****-AM-0A_0603)
+Added Component: Designator=R28(PRC-*****-AM-0A_0603)
+Added Component: Designator=R29(PRC-*****-AM-0A_0603)
+Added Component: Designator=R30(PRC-*****-AM-0A_0603)
+Added Pin To Net: NetName=VCC Pin=LED7-A
+Added Pin To Net: NetName=VCC Pin=LED8-A
+Added Pin To Net: NetName=VCC Pin=LED9-A
+Added Pin To Net: NetName=VCC Pin=LED10-A
+Added Pin To Net: NetName=VCC Pin=LED11-A
+Added Pin To Net: NetName=VCC Pin=LED12-A
+Added Pin To Net: NetName=NetQ3_C Pin=R25-2
+Added Pin To Net: NetName=NetQ3_C Pin=R26-2
+Added Pin To Net: NetName=NetQ3_C Pin=R27-2
+Added Pin To Net: NetName=NetQ3_C Pin=R28-2
+Added Pin To Net: NetName=NetQ3_C Pin=R29-2
+Added Pin To Net: NetName=NetQ3_C Pin=R30-2
+Added Pin To Net: NetName=NetLED7_C Pin=LED7-C
+Added Pin To Net: NetName=NetLED7_C Pin=R25-1
+Added Net: Name=NetLED7_C
+Added Pin To Net: NetName=NetLED8_C Pin=LED8-C
+Added Pin To Net: NetName=NetLED8_C Pin=R26-1
+Added Net: Name=NetLED8_C
+Added Pin To Net: NetName=NetLED9_C Pin=LED9-C
+Added Pin To Net: NetName=NetLED9_C Pin=R27-1
+Added Net: Name=NetLED9_C
+Added Pin To Net: NetName=NetLED10_C Pin=LED10-C
+Added Pin To Net: NetName=NetLED10_C Pin=R28-1
+Added Net: Name=NetLED10_C
+Added Pin To Net: NetName=NetLED11_C Pin=LED11-C
+Added Pin To Net: NetName=NetLED11_C Pin=R29-1
+Added Net: Name=NetLED11_C
+Added Pin To Net: NetName=NetLED12_C Pin=LED12-C
+Added Pin To Net: NetName=NetLED12_C Pin=R30-1
+Added Net: Name=NetLED12_C
+Added Member To Class: ClassName=BA100_CPU_V1.0 Member=Component LED7 MA2X335
+Added Member To Class: ClassName=BA100_CPU_V1.0 Member=Component LED8 MA2X335
+Added Member To Class: ClassName=BA100_CPU_V1.0 Member=Component LED9 MA2X335
+Added Member To Class: ClassName=BA100_CPU_V1.0 Member=Component LED10 MA2X335
+Added Member To Class: ClassName=BA100_CPU_V1.0 Member=Component LED11 MA2X335
+Added Member To Class: ClassName=BA100_CPU_V1.0 Member=Component LED12 MA2X335
+Added Member To Class: ClassName=BA100_CPU_V1.0 Member=Component R25 560
+Added Member To Class: ClassName=BA100_CPU_V1.0 Member=Component R26 560
+Added Member To Class: ClassName=BA100_CPU_V1.0 Member=Component R27 560
+Added Member To Class: ClassName=BA100_CPU_V1.0 Member=Component R28 560
+Added Member To Class: ClassName=BA100_CPU_V1.0 Member=Component R29 560
+Added Member To Class: ClassName=BA100_CPU_V1.0 Member=Component R30 560
+Added Room: Name=BA100_CPU_V1.0

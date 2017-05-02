@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=ANT-2
+Removed Pin From Net: NetName=GND Pin=CN1-1-3
+Removed Pin From Net: NetName=GND Pin=CN1-1-4
+Removed Pin From Net: NetName=GND Pin=CN2-1-4
+Removed Pin From Net: NetName=GND Pin=CN2-1-5
+Removed Pin From Net: NetName=GND Pin=CN3-1-7
+Removed Pin From Net: NetName=GND Pin=CN3-1-8
+Removed Pin From Net: NetName=GND Pin=JP3-3
+Removed Pin From Net: NetName=GND Pin=JP3-4
+Removed Pin From Net: NetName=GND Pin=JP4-3
+Removed Pin From Net: NetName=GND Pin=JP4-4
+Removed Pin From Net: NetName=P16 Pin=SW-1
+Removed Pin From Net: NetName=GND Pin=SW-3
+Removed Pin From Net: NetName=GND Pin=TM-5
+Removed Pin From Net: NetName=GND Pin=TM-6
+Removed Pin From Net: NetName=VDD Pin=U1-0
+Change Class Name : Old Net Name=BA100_CPU_V1.4 New Net Name=BA100_CPU_V1.0
+Added Room: Name=BA100_CPU_V1.0
